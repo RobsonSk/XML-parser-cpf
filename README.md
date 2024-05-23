@@ -32,10 +32,15 @@ npm start
 
 ## Estrutura do Projeto
 .
+
 ├── .env
+
 ├── app.js
+
 ├── package.json
+
 └── README.md
+
 
 ## Dependências
 - **csv-parser: Biblioteca para fazer parsing de arquivos CSV.**
