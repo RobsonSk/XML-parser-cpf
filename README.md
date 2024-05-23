@@ -19,10 +19,10 @@ Clone este repositório:
    ```
 
 Crie um arquivo .env na raiz do projeto com o seguinte conteúdo substituindo pelo caminho das pastas que utilizará:
-PASTA_XML=caminho/para/pasta/xml
-PASTA_CSV=caminho/para/arquivo/csv.csv
-CONSULTORAS_FOLDER=caminho/para/pasta/consultoras/
-NORMAIS_FOLDER=caminho/para/pasta/normais/
+- PASTA_XML=caminho/para/pasta/xml
+- PASTA_CSV=caminho/para/arquivo/csv.csv
+- CONSULTORAS_FOLDER=caminho/para/pasta/consultoras/
+- NORMAIS_FOLDER=caminho/para/pasta/normais/
 
 ## Utilização
 Para iniciar o programa, execute o seguinte comando:
