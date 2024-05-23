@@ -52,7 +52,7 @@ npm start
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENCE.md) para mais detalhes.
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENCE) para mais detalhes.
 
 ## Contato
 
